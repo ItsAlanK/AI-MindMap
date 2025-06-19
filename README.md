@@ -4,6 +4,8 @@ An offline, privacy-first mind map and idea organizer with integrated AI assista
 
 100% Vibe Coded
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D61442TG)
+
 ## Features
 
 ### Core (Free/Base Version)
