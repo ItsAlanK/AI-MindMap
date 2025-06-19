@@ -10,6 +10,7 @@ An offline, privacy-first mind map and idea organizer with integrated AI assista
 
 ### Core (Free/Base Version)
 - Create and edit mind maps (nodes and edges)
+- Node editing: labels, colors, and size
 - Local save/load (planned: SQLite or JSON-based storage)
 - Simple visual UI with drag-and-drop node positioning
 - Color coding, labels, and basic organization (coming soon)
@@ -48,7 +49,7 @@ src/
 ## Roadmap
 - [x] Modular codebase with comments
 - [x] Node creation and drag-and-drop
-- [ ] Node editing (labels, colors)
+- [x] Node editing (labels, colors, size)
 - [ ] Edge (connection) creation
 - [ ] Local save/load
 - [ ] AI-powered features

@@ -5,8 +5,11 @@
 mod node;
 mod app;
 
+use eframe::egui;
+
 fn main() -> eframe::Result<()> {
-    let options = eframe::NativeOptions::default();
+    let mut options = eframe::NativeOptions::default();
+    options.viewport = egui::ViewportBuilder::default().with_inner_size([1200.0, 800.0]);
     eframe::run_native(
         "AI Mind Map",
         options,
