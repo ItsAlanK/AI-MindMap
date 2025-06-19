@@ -1,4 +1,4 @@
-# AI-Assisted Mind Map
+# GrayMatter: AI-Assisted Mind Map
 
 An offline, privacy-first mind map and idea organizer with integrated AI assistance. Built in Rust using egui for a fast, modern, and cross-platform native experience.
 
