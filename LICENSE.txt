@@ -1,0 +1,11 @@
+GrayMatter AI-Assisted Mind Map Custom License
+
+Copyright (c) 2024 Alan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for personal, non-commercial purposes only, subject to the following conditions:
+
+1. The Software may not be modified, copied, distributed, sublicensed, or sold, in whole or in part, without explicit written permission from the copyright holder.
+2. Commercial use, redistribution, or sale of the Software or any derivative works is strictly prohibited.
+3. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+By using the Software, you agree to these terms. 
