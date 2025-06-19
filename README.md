@@ -53,7 +53,7 @@ src/
 - [ ] Export/import
 
 ## License
-TBD
+This project is licensed under the **GrayMatter AI-Assisted Mind Map Custom License**. See [LICENSE.txt](LICENSE.txt) for details.
 
 ---
 
